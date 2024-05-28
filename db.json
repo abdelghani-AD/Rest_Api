@@ -2,47 +2,80 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "marque": "Mercedes-Benz",
+      "name": "Mercedes-Benz",
+      "price": 89.0,
+      "imageUrl": ""
     },
     {
       "id": 2,
-      "title": ""
+      "marque": "Dacia",
+      "name": "Dacia",
+      "price": 87.0,
+      "imageUrl": ""
     },
     {
       "id": 3,
-      "title": ""
+      "marque": "Bentley",
+      "name": "Bentley",
+      "price": 100.0,
+      "imageUrl": ""
     },
     {
       "id": 4,
-      "title": ""
+      "marque": "Opel",
+      "name": "Opel",
+      "price": 79.0,
+      "imageUrl": ""
     },
     {
       "id": 5,
-      "title": ""
+      "marque": "Mercedes-Benz",
+      "name": "Mercedes-Benz",
+      "price": 80.0,
+      "imageUrl": ""
     },
     {
       "id": 6,
-      "title": ""
+      "marque": "Bentley",
+      "name": "Bentley",
+      "price": 102.0,
+      "imageUrl": ""
     },
     {
       "id": 7,
-      "title": ""
+      "marque": "Opel",
+      "name": "Opel",
+      "price": 56.0,
+      "imageUrl": ""
     },
     {
       "id": 8,
-      "title": ""
+      "marque": "Dacia",
+      "name": "Dacia",
+      "price": 43.0,
+      "imageUrl": ""
     },
     {
       "id": 9,
-      "title": ""
+      "marque": "Mercedes-Benz",
+      "name": "Mercedes-Benz",
+      "price": 62.0,
+      "imageUrl": ""
     },
     {
       "id": 10,
-      "title": ""
+      "marque": "Bentley",
+      "name": "Bentley",
+      "price": 90.0,
+      "imageUrl": ""
     },
     {
       "id": 11,
-      "title": ""
+      "marque": "Dacia",
+      "name": "Dacia",
+      "price": 50.0,
+      "imageUrl": ""
     }
   ],
   "profile": {
