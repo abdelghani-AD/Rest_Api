@@ -209,20 +209,6 @@
       "name": "Mercedes-Benz",
       "price": 62.0,
       "imageUrl": "https://w7.pngwing.com/pngs/761/186/png-transparent-mercedes-benz-c-class-mercedes-benz-s-class-mercedes-benz-sls-amg-car-mercedes-compact-car-sedan-car.png"
-    },
-    {
-      "id": 32,
-      "marque": "Bentley",
-      "name": "Bentley",
-      "price": 90.0,
-      "imageUrl": "https://i.pinimg.com/originals/25/6a/bf/256abf8af4d50ff4a07b6c166b3a2de4.png"
-    },
-    {
-      "id": 33,
-      "marque": "Dacia",
-      "name": "Dacia",
-      "price": 50.0,
-      "imageUrl": "https://e7.pngegg.com/pngimages/349/259/png-clipart-automobile-dacia-car-renault-dacia-duster-car-driving-car.png"
     }
   ],
   "profile": {
